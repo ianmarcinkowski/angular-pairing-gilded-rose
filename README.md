@@ -2,8 +2,8 @@
 
 This is an implementation of
 [Emily Bache's Gilded Rose refactoring kata](https://github.com/emilybache/GildedRose-Refactoring-Kata)
-in an Angular front-end app, since Angular uses Jasmine for testing.  Perhaps one day I'll submit
-this as a PR to the original repo.
+in an Angular front-end app, which can be extended during pair programming practice inside of a
+working Angular app.
 
 # The Gilded Rose Problem
 
